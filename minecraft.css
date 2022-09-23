@@ -1,0 +1,14 @@
+a.home_page:link, a.home_page:visited {
+  background-color: #515151;
+  color: #ffffff;
+  padding: 14px 25px; 
+  text-align: center;
+  text-decoration: dashed;
+  display: grid;
+  width: 334px;
+  position: relative; bottom: 450px; left: 569px;
+}
+
+a.home_page:hover, a.home_page:active {
+  background-color: #1d1d1d;
+}
