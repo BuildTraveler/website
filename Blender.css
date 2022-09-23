@@ -139,7 +139,7 @@ a.home_page:link, a.home_page:visited {
   text-decoration: dashed;
   display: grid;
   width: 334px;
-  position: relative; bottom: 450px; left: 569px;
+  position: relative; bottom: 350px; left: 569px;
 }
 
 a.home_page:hover, a.home_page:active {
@@ -154,7 +154,7 @@ a.minecraft_page:link, a.minecraft_page:visited {
   text-decoration: dashed;
   display: grid;
   width: 334px;
-  position: relative; bottom: 496px; left: 953px;
+  position: relative; bottom: 396px; left: 953px;
 }
 
 a.minecraft_page:hover, a.minecraft_page:active {
@@ -169,14 +169,9 @@ a.rick_roll_page:link, a.rick_roll_page:visited {
   text-decoration: dashed;
   display: grid;
   width: 334px;
-  position: relative; bottom: 543px; left: 185px;
+  position: relative; bottom: 443px; left: 185px;
 }
 
 a.rick_roll_page:hover, a.rick_roll_page:active {
   background-color: #1d1d1d;
 }
-
-img.blue_ball{
-  position: relative; left: 1135px;
-}
-    
