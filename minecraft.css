@@ -6,7 +6,7 @@ a.home_page:link, a.home_page:visited {
   text-decoration: dashed;
   display: grid;
   width: 334px;
-  position: relative; bottom: 450px; left: 569px;
+  position: relative; left: 569px;
 }
 
 a.home_page:hover, a.home_page:active {
