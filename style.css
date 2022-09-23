@@ -1,0 +1,49 @@
+h1.titel {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+a.link_blender:link, a.link_blender:visited {
+    background-color: #515151;
+    color: #ffffff;
+    padding: 14px 25px; 
+    text-align: center;
+    text-decoration: dashed;
+    display: grid;
+    width: 334px;
+    position: relative; left: 567px;
+}
+  
+a.link_blender:hover, a.link_blender:active {
+    background-color: #1b1b1b;
+}
+
+a.link_rick_roll:link, a.link_rick_roll:visited {
+    background-color: #515151;
+    color: #ffffff;
+    padding: 14px 25px; 
+    text-align: center;
+    text-decoration: dashed;
+    display: grid;
+    width: 334px;
+    position: relative; left: 567px;
+  }
+  
+  a.link_rick_roll:hover, a.link_rick_roll:active {
+    background-color: #1d1d1d;
+  }
+  
+  a.link_minecraft:link, a.link_minecraft:visited {
+    background-color: #515151;
+    color: #ffffff;
+    padding: 14px 25px; 
+    text-align: center;
+    text-decoration: dashed;
+    display: grid;
+    width: 334px;
+    position: relative;left: 567px;
+  }
+  
+  a.link_minecraft:hover, a.link_minecraft:active {
+    background-color: #1d1d1d;
+  }
