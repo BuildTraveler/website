@@ -175,3 +175,8 @@ a.rick_roll_page:link, a.rick_roll_page:visited {
 a.rick_roll_page:hover, a.rick_roll_page:active {
   background-color: #1d1d1d;
 }
+
+img.blue_ball{
+  position: relative; left: 1135px;
+}
+    
