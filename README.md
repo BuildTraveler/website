@@ -1,2 +1,4 @@
-# Website Nr.0
-This is my First Website Nr.0
+# Website 0.0.0
+This is my first website.
+
+Release 0.0.0
