@@ -1,2 +1,2 @@
 # website
-website for school
+This is my First Website Nr.0
